@@ -20,6 +20,7 @@
 * `git clone https://github.com/atalamin/Marshal.git`
  
 * `cd Marshal`
+* `git pull`
  
 * `python PyEncryptor_enc.py`
  
