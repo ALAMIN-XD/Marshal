@@ -15,7 +15,7 @@
  
 * `pip install cython`
  
-* `rm -rf PyCompile`
+* `rm -rf Marshal`
  
 * `git clone https://github.com/atalamin/Marshal.git`
  
